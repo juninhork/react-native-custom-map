@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1731BF59-16D1-431F-9709-95547109F262</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1731BF59-16D1-431F-9709-95547109F262.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CustomMap_ReactNative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CustomMap_ReactNative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace CustomMap_ReactNative with scheme CustomMap_ReactNative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585081611.76417398</real>
+			<key>timeStoppedRecording</key>
+			<real>585081613.08370304</real>
+			<key>title</key>
+			<string>Building workspace CustomMap_ReactNative with scheme CustomMap_ReactNative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1731BF59-16D1-431F-9709-95547109F262</string>
+		</dict>
+		<key>44866B10-9F2A-4610-9600-7E08978FD1BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44866B10-9F2A-4610-9600-7E08978FD1BD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CustomMap_ReactNative project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CustomMap_ReactNative</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace CustomMap_ReactNative with scheme CustomMap_ReactNative and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585080378.31863594</real>
+			<key>timeStoppedRecording</key>
+			<real>585080386.07132304</real>
+			<key>title</key>
+			<string>Building workspace CustomMap_ReactNative with scheme CustomMap_ReactNative and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>44866B10-9F2A-4610-9600-7E08978FD1BD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
